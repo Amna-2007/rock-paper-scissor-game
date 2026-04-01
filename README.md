@@ -130,7 +130,7 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 ## 👤 Author
 
-**Your Name**
+**Amna kabeer**
 - GitHub: [Amna-2007](https://github.com/Amna-2007)
 
 
